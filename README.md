@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [Java 11](./codeforces/263/A.java) | `implementation` `*800` | Jan/25/2022 23:02 | 
+2 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [Java 11](./codeforces/263/A.java) | `implementation` `*800` | Jan/25/2022 23:02 | 
+1 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [Java 11](./codeforces/69/A.java) | `implementation` `math` `*1000` | Jan/25/2022 21:58 | 
